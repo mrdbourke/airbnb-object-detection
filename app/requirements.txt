@@ -2,7 +2,7 @@ numpy==1.18.2
 Cython==0.29.16
 decorator==4.4.2
 defusedxml==0.6.0
-torch==1.4.0
+torch==2.2.0
 torchvision==0.5.0
 opencv-python==4.2.0.34
 git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
